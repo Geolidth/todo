@@ -1,3 +1,13 @@
+/*
+* File: app.js
+* Author: Csajbók-Reményi László
+* Copyright: 2023, Csajbók-Reményi László
+* Group: Szoft I/2/E
+* Date: 2023-03-23
+* Github: https://github.com/Geolidth/todo.git
+* Licenc: GNU GPL
+*/
+
 const doc = {
     tbody: document.querySelector('#tbody')
 };
